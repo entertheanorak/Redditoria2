@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base Theme -->
+    <style name="AppTheme" parent="Theme.Reddit">
+
+
+    </style>
+
+</resources>
